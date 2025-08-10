@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<link rel="stylesheet"type="text/css" href="${pageContext.request.contextPath}/resources/css/common/footer.css">
 </head>
 <body>
+<div id="footer">
+ <p style="color:white;text-align:center;">2025 Kita Cafe.All rights reserved</p>
+</div>
 
 </body>
 </html>
